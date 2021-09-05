@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(Ex2 VERSION 0.0.$ENV{GITHUB_RUN_NUMBER})
+project(bulk VERSION 0.0.$ENV{GITHUB_RUN_NUMBER})
 #include(${PROJECT_SOURCE_DIR}/cmake/conan.cmake)
 #conan_cmake_run(
 #  CONANFILE conanfile.txt
