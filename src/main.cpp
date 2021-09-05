@@ -205,7 +205,7 @@ int main(int argc, char const *argv[])
         if (argc == 2)
             bulkN = std::atoi(argv[1]);
         else
-            throw std::exception("./bulk <N>");
+            throw std::invalid_argument("./bulk <N>");
 
         BulkCommandOperator bulkCommandOperator(bulkN);
 
