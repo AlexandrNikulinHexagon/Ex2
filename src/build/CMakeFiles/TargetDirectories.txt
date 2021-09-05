@@ -1,3 +1,0 @@
-C:/Users/asnik/OTUS/Ex1/src/build/CMakeFiles/ex1.dir
-C:/Users/asnik/OTUS/Ex1/src/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/asnik/OTUS/Ex1/src/build/CMakeFiles/ZERO_CHECK.dir
